@@ -1,0 +1,12 @@
+name: "Totorial"
+output_dir: "."
+navbar:
+  title: "Tutorial"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Tutorial"
+      href: tutorial.html
+      
