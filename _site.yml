@@ -1,5 +1,11 @@
 name: "Totorial"
 output_dir: "."
+
+output: 
+  html_document:
+    theme: darkly
+    highlight: tango
+  
 navbar:
   title: "Tutorial"
   left:
